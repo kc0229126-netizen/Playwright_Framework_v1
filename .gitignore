@@ -1,0 +1,27 @@
+
+# Playwright
+
+#Dependencies
+node_modules/
+
+
+#Environment files
+.env
+
+#Playwright test artifacts
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+#Reports
+/report/
+/allure-report/
+/allure-results/
+/custom-report/
+
+#Tools
+.claude/
+.playwright-cli/
+.playwright-mcp/
